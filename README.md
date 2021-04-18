@@ -1,46 +1,32 @@
-# Getting Started with Create React App
+<p align="center">
+  <a href="https://lucid-agnesi-8dbaf1.netlify.app/" target="_blank">
+    <h1>CRIPTOMONEDAS</h1>
+  </a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### :heart: ¿Te gusto este proyecto?
+Si te gusto este proyecto comparte y dale una estrella :star: en Github y no dudes en contactarme.
 
-## Available Scripts
+[**CRIPTOMONEDAS**]Si quieres ver el api de cotización puedes ir al siguiente link <a href="https://www.cryptocompare.com/" target="_blank">https://www.cryptocompare.com/</a> usando animaciones 2d.
 
-In the project directory, you can run:
+<img src="assets/miniatura.png" />
+### Este repositorio es un experimento con stylecomponent y la api de comparación de criptomonedas :heart:.
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Mi canal de youtube 
 
-### `yarn test`
+[Youtube](https://www.youtube.com/channel/UCQsrs_h91Q-baLx-n_rcdNg)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Mis articulos en medium
+[medium](https://devjaime.medium.com/)
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Mi twitter por si quieres contacterme
+[medium](https://twitter.com/HsJhernandez)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
