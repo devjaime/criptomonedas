@@ -9,7 +9,7 @@ Si te gusto este proyecto comparte y dale una estrella :star: en Github y no dud
 
 [**CRIPTOMONEDAS**]Si quieres ver el api de cotización puedes ir al siguiente link <a href="https://www.cryptocompare.com/" target="_blank">https://www.cryptocompare.com/</a> usando animaciones 2d.
 
-<img src="assets/miniatura.png" />
+<img src="src/assets/miniatura.png" />
 ### Este repositorio es un experimento con stylecomponent y la api de comparación de criptomonedas :heart:.
 
 
